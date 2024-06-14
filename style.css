@@ -1,0 +1,21 @@
+*{
+    font-family: cursive;
+    color: white;
+    font-size: large;
+    }
+    .container{
+        background-image: url(./2066472.jpg);
+        background-repeat: no-repeat;    
+        border: 2px solid red;
+        height: auto;
+        margin: 50px;
+        padding: 30px;
+    }
+    h1{
+        color: rgb(224, 87, 87);
+        text-align: center;
+    }
+    .data{
+        margin-top: 20px;
+        padding: 30px;
+    }
